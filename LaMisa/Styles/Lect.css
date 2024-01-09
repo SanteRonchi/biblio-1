@@ -892,3 +892,14 @@ button[disabled]{
   right: 0;
   margin-bottom: 0;
 }
+
+
+
+.fixedButtonBack {
+  position: fixed;
+  right: 2px;
+  padding: 0;
+  border: none;
+  background: none;
+  top: 10px;
+}
