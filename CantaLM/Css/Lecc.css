@@ -333,3 +333,43 @@ h4 {
   right: 0;
   margin-bottom: 0;
 }
+
+.butXL {
+  font: normal 1em Times;
+  background-color: orange;
+
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding-bottom: 0.4em;
+  padding-top: 0.4em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1em;
+  margin: 0.2em 0.2em;
+  cursor: pointer;
+}
+.butXL {
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.butXL {
+  width: 80%;
+}
+.pT3but {
+  font-family: Times, Times New Roman, serif;
+  letter-spacing: 2px;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: normal;
+  margin-bottom: 0.2em;
+  margin-top: 0.2em;
+  color: brown;
+}
+
+.pT3but a:link {
+  color: white;
+}
+.pT3but a:visited {
+  color: white;
+}
