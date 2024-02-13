@@ -19,8 +19,8 @@ html {
 }
 
 body {
-  font-size: clamp(1.1rem, 1.1rem + 0.25vw, 1.35rem);
   font-family: Times, Times New Roman, serif;
+  font-size: clamp(1.1rem, 1.1rem + 0.25vw, 1.35rem);
   padding-left: 2%;
   padding-right: 2%;
   -webkit-hyphens: auto;
